@@ -1,0 +1,22 @@
+{
+    "name": "fresh-dark",
+    "displayName": "Fresh Dark",
+    "description": "A fresh dark theme optimized for big screens.",
+    "version": "0.0.1",
+    "publisher": "EmilNuutinen",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fresh Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fresh Dark-color-theme.json"
+            }
+        ]
+    }
+}
