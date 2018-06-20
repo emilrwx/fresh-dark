@@ -109,7 +109,8 @@
 				"support.class.dom.js",
 				"support.variable.dom.js",
 				"support.variable.property.js",
-				"support.constant.json.js"
+				"support.constant.json.js",
+				"support.type.object.module.js"
 			],
 			"settings": {
 				"foreground": "#26C6DA"
