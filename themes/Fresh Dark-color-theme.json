@@ -107,7 +107,9 @@
 				"support.class.builtin.js",
 				"support.constant.math.js",
 				"support.class.dom.js",
-				"support.variable.dom.js"
+				"support.variable.dom.js",
+				"support.variable.property.js",
+				"support.constant.json.js"
 			],
 			"settings": {
 				"foreground": "#26C6DA"
