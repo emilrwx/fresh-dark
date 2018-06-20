@@ -68,18 +68,19 @@
 			"name": "Colors",
 			"scope": [
 				"constant.other.color",
-				"punctuation.definition.string.begin.js",
-				"punctuation.definition.string.end.js",
-				"punctuation.separator.key-value.js",
-				"punctuation.accessor.js",
-				"punctuation.terminator.statement.js",
+				"punctuation.definition.string.begin",
+				"punctuation.definition.string.end",
+				"punctuation.separator.key-value",
+				"punctuation.accessor",
+				"punctuation.terminator.statement",
 				"punctuation.support.type.property-name.begin.json",
 				"punctuation.support.type.property-name.end.json",
-				"punctuation.definition.string.begin.json",
-				"punctuation.definition.string.end.json",
 				"punctuation.separator.dictionary.pair.json",
 				"punctuation.terminator.rule.css",
-				"punctuation.separator.key-value.css"
+				"punctuation.separator.parameter",
+				"punctuation.separator.comma",
+				"punctuation.definition.entity.html",
+				"punctuation.definition.keyword.css"
 			],
 			"settings": {
 				"foreground": "#777"
@@ -102,7 +103,11 @@
 				"storage.type",
 				"meta.function-call",
 				"support.class.console.js",
-				"support.variable.property.dom.js"
+				"support.variable.property.dom.js",
+				"support.class.builtin.js",
+				"support.constant.math.js",
+				"support.class.dom.js",
+				"support.variable.dom.js"
 			],
 			"settings": {
 				"foreground": "#26C6DA"
@@ -112,7 +117,7 @@
 			"name": "Values",
 			"scope": [
 				"constant.language.boolean.false",
-				"constant.language.boolean.false",
+				"constant.language.boolean.true",
 				"constant.language.undefined.js",
 				"constant.language.null.js",
 				"variable.other.constant.property.js"
@@ -138,6 +143,13 @@
 				"keyword.operator.assignment.js",
 				"storage.type.function.arrow.js",
 				"keyword.operator.comparison.js",
+				"keyword.operator.arithmetic.js",
+				"keyword.operator.relational.js",
+				"keyword.operator.increment.js",
+				"keyword.operator.decrement.js",
+				"keyword.operator.logical.js",
+				"keyword.operator.assignment.compound.js",
+				"keyword.operator.ternary.js",
 				"storage.modifier",
 				"constant.numeric.css"
 			],
@@ -162,7 +174,8 @@
 				"entity.name.function",
 				"variable.function",
 				"support.function",
-				"keyword.other.special-method"
+				"keyword.other.special-method",
+				"entity.name.type.js"
 			],
 			"settings": {
 				"foreground": "#56bd02"
