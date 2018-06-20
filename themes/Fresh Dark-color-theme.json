@@ -80,7 +80,9 @@
 				"punctuation.separator.parameter",
 				"punctuation.separator.comma",
 				"punctuation.definition.entity.html",
-				"punctuation.definition.keyword.css"
+				"punctuation.definition.keyword.css",
+				"punctuation.definition.block.tag.jsdoc",
+				"storage.type.class.jsdoc"
 			],
 			"settings": {
 				"foreground": "#777"
