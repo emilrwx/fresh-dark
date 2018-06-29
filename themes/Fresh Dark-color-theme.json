@@ -125,7 +125,8 @@
 				"constant.language.boolean.true",
 				"constant.language.undefined.js",
 				"constant.language.null.js",
-				"variable.other.constant.property.js"
+				"variable.other.constant.property.js",
+				"variable.other.constant.js"
 			],
 			"settings": {
 				"foreground": "#8E24AA"
