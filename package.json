@@ -9,7 +9,7 @@
     "engines": {
         "vscode": "^1.24.0"
     },
-    "icon": "https://github.com/Kurkulis/fresh-dark/blob/master/Icon.png",
+    "icon": "Icon.png",
     "keywords": [
         "fresh",
         "dark",
