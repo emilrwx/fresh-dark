@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "fresh-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Fresh Dark Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+A dark theme optimized for big screens to minimize reflections and eye strain.
 
-**Enjoy!**
+![](./Screenshot.png)
+
+## Contributing
+
+This theme currently only supports JavaScript, HTML & CSS. If you find any inconsistencies, please file a [issue](https://github.com/Kurkulis/fresh-dark/issues). Feel free to [contribute](https://github.com/Kurkulis/fresh-dark). All help is welcome.
