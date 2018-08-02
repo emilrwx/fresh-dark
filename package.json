@@ -1,12 +1,19 @@
 {
     "name": "fresh-dark",
-    "displayName": "Fresh Dark",
+    "displayName": "Fresh Dark Theme",
     "description": "A fresh dark theme optimized for big screens.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "EmilNuutinen",
+    "author": "Emil Nuutinen",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.24.0"
     },
+    "keywords": [
+        "fresh",
+        "dark",
+        "fresh dark"
+    ],
     "categories": [
         "Themes"
     ],
