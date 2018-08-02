@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#162014",
 		"editor.foreground": "#d4d4d4",
-		"editorGroup.background": "#162014",
+		"editorGroup.emptyBackground": "#162014",
 		"editorGroup.border": "#000",
 		"editorGroupHeader.tabsBackground": "#162014",
 		"tab.activeBorder": "#4CAF50",
@@ -37,12 +37,6 @@
 		"editor.wordHighlightStrongBackground": "#333"
 		},
 	"tokenColors": [
-		{
-			"settings": {
-				"foreground": "#eee",
-				"background": "#263238ff"
-			}
-		},
 		{
 			"name": "Comment",
 			"scope": [
@@ -241,7 +235,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"fontStyle": "normal",
+				"fontStyle": "",
 				"foreground": "#FFF176"
 			}
 		},
@@ -550,15 +544,6 @@
 			}
 		},
 		{
-			"name": "Markdown - Line Break",
-			"scope": [
-				"text.html.markdown meta.dummy.line-break"
-			],
-			"settings": {
-				"foreground": ""
-			}
-		},
-		{
 			"name": "Markdown - Heading",
 			"scope": [
 				"markdown.heading",
@@ -616,22 +601,11 @@
 			}
 		},
 		{
-			"name": "Markup - Strike",
-			"scope": [
-				"markup.strike"
-			],
-			"settings": {
-				"fontStyle": "strike",
-				"foreground": ""
-			}
-		},
-		{
 			"name": "Markdown - Blockquote",
 			"scope": [
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"background": "#65737E",
 				"foreground": "#65737E"
 			}
 		},
@@ -641,8 +615,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": ""
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -726,7 +699,6 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"background": "#00000050",
 				"foreground": "#65737E"
 			}
 		},
