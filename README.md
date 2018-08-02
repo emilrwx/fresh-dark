@@ -3,7 +3,7 @@
 
 A dark theme optimized for big screens to minimize reflections and eye strain.
 
-![](https://github.com/Kurkulis/fresh-dark/blob/master/Screenshot.png)
+![screenshot](https://github.com/Kurkulis/fresh-dark/blob/master/Screenshot.png)
 
 ## Contributing
 
