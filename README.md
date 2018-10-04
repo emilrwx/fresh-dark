@@ -3,7 +3,18 @@
 
 A dark theme optimized for big screens to minimize reflections and eye strain.
 
-![screenshot](https://raw.githubusercontent.com/Kurkulis/fresh-dark/master/Screenshot.png)
+## Screenshots
+
+### Fresh Dark
+![screenshot](https://raw.githubusercontent.com/Kurkulis/fresh-dark/master/ScreenshotScreenshot_Fresh_Dark.png)
+
+
+### Fresh Dark Blue
+![screenshot](https://raw.githubusercontent.com/Kurkulis/fresh-dark/master/ScreenshotScreenshot_Fresh_Dark_Blue.png)
+
+
+### Fresh Dark Neutral
+![screenshot](https://raw.githubusercontent.com/Kurkulis/fresh-dark/master/ScreenshotScreenshot_Fresh_Dark_Neutral.png)
 
 ## Contributing
 
