@@ -26,9 +26,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Fresh Dark",
+                "label": "Fresh Dark Green",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Fresh Dark-color-theme.json"
+                "path": "./themes/Fresh Dark Green-color-theme.json"
             },
             {
                 "label": "Fresh Dark Blue",
