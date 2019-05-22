@@ -12,15 +12,17 @@
 		"editorGroup.border": "#000",
 		"editorGroupHeader.tabsBackground": "#111111",
 		"editorOverviewRuler.border": "#111111",
-		"editor.lineHighlightBackground": "#333",
+		"editor.lineHighlightBackground": "#222",
+		"editorLineNumber.foreground": "#333",
 		"editor.selectionBackground": "#333",
 		"editorWidget.background": "#111111",
+		"editorRuler.foreground": "#333",
 		"editor.wordHighlightBackground": "#333",
 		"editor.wordHighlightStrongBackground": "#333",
 		"focusBorder": "#666",
 		"input.background": "#111111",
 		"list.activeSelectionBackground": "#111111",
-		"list.activeSelectionForeground": "#f8f8f8",
+		"list.activeSelectionForeground": "#d4d4d4",
 		"list.inactiveSelectionBackground": "#111111",
 		"panel.border": "#000",
 		"panelTitle.activeBorder": "#d4d4d4",
@@ -61,6 +63,15 @@
 			],
 			"settings": {
 				"foreground": "#ae7bc9"
+			}
+		},
+		{
+			"name": "JSX",
+			"scope": [
+				"meta.jsx.children.js"
+			],
+			"settings": {
+				"foreground": "#d4d4d4"
 			}
 		},
 		{
@@ -112,7 +123,8 @@
 				"support.variable.property.js",
 				"support.constant.json.js",
 				"support.type.object.module.js",
-				"storage.modifier"
+				"storage.modifier",
+				"keyword.control.flow.js"
 			],
 			"settings": {
 				"foreground": "#26C6DA"
@@ -143,7 +155,7 @@
 				"constant.other.color.rgb-value.hex.css"
 			],
 			"settings": {
-				"foreground": "#cca55c"
+				"foreground": "#e0464c"
 			}
 		},
 		{
@@ -194,7 +206,16 @@
 				"punctuation.definition.block.js",
 				"punctuation.definition.parameters.begin.js",
 				"punctuation.definition.parameters.end.js",
-				"meta.brace.round.js"
+				"punctuation.definition.generic.end.html",
+				"punctuation.definition.generic.begin.html",
+				"punctuation.section.property-list.begin.bracket.curly.css",
+				"punctuation.section.property-list.end.bracket.curly.css",
+				"punctuation.section.embedded.end.js",
+				"punctuation.section.embedded.begin.js",
+				"meta.embedded.expression.js",
+				"meta.brace.square.js",
+				"meta.brace.round.js",
+				"invalid.illegal.attribute.js"
 			],
 			"settings": {
 				"foreground": "#e0464c"
@@ -206,13 +227,11 @@
 				"entity.name.tag",
 				"meta.tag.sgml",
 				"markup.deleted.git_gutter",
-				"meta.jsx.children.js",
-				"meta.embedded.expression.js",
 				"meta.object-literal.key.js",
 				"meta.var.expr.js",
 				"support.variable.object.node.js",
-				"punctuation.section.embedded.begin.js",
-				"punctuation.section.embedded.end.js",
+				"support.variable.object.process.js",
+				"support.variable.property.process.js",
 				"source.python",
 				"support.type.python"
 			],
@@ -230,7 +249,8 @@
 				"entity.name.type.js",
 				"entity.name.function.js",
 				"entity.name.type.class.js",
-				"entity.other.inherited-class.js"
+				"entity.other.inherited-class.js",
+				"entity.other.attribute-name.js"
 			],
 			"settings": {
 				"foreground": "#cca55c"
