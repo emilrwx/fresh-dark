@@ -2,7 +2,7 @@
     "name": "fresh-dark",
     "displayName": "Fresh Dark Theme",
     "description": "A fresh dark theme optimized for big screens.",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "publisher": "EmilNuutinen",
     "author": "Emil Nuutinen",
     "license": "MIT",
@@ -24,8 +24,7 @@
         "url": "https://github.com/Kurkulis/fresh-dark"
     },
     "contributes": {
-        "themes": [
-            {
+        "themes": [{
                 "label": "Fresh Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Fresh Dark Neutral-color-theme.json"
