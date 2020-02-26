@@ -1,7 +1,7 @@
 {
     "name": "fresh-dark",
     "displayName": "Fresh Dark Theme",
-    "description": "A fresh dark theme optimized for big screens.",
+    "description": "Fresh and minimal theme for Visual Studio Code",
     "version": "3.0.0",
     "publisher": "EmilNuutinen",
     "author": "Emil Nuutinen",
@@ -11,10 +11,10 @@
     },
     "icon": "Icon.png",
     "keywords": [
-        "fresh",
-        "dark",
         "fresh dark",
-        "material theme"
+        "dark theme",
+        "minimal",
+        "minimalistic"
     ],
     "categories": [
         "Themes"
