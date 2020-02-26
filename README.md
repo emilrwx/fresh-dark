@@ -13,4 +13,4 @@ A dark theme optimized for big screens to minimize reflections and eye strain.
 
 ## Contributing
 
-This theme currently only supports JavaScript, HTML & CSS. If you find any inconsistencies, please file a [issue](https://github.com/Kurkulis/fresh-dark/issues). Feel free to [contribute](https://github.com/Kurkulis/fresh-dark). All help is welcome.
+This theme is tested with JavaScript, Python, HTML & CSS. If you find any inconsistencies, please file a [issue](https://github.com/Kurkulis/fresh-dark/issues). Feel free to [contribute](https://github.com/Kurkulis/fresh-dark). All help is welcome.

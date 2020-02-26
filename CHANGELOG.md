@@ -1,6 +1,13 @@
 # Change Log
 All notable changes to the "fresh-dark" extension will be documented in this file.
 
+## [3.0.0] - 2018-11-22
+### Added
+- Terminal colors.
+- Sidebar border.
+
+### Changed
+- Adjusted the colors for less contrast against the background.
 
 ## [1.4.0] - 2018-11-22
 ### Changed
