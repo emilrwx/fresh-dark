@@ -1,7 +1,14 @@
 # Change Log
 All notable changes to the "fresh-dark" extension will be documented in this file.
 
-## [3.0.0] - 2018-11-22
+## [4.0.0] - 2020-05-16
+### Added
+- Contrast version.
+
+### Changed
+- Tweaked colors.
+
+## [3.0.0] - 2019-11-22
 ### Added
 - Terminal colors.
 - Sidebar border.
