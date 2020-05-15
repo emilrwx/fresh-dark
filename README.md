@@ -1,12 +1,15 @@
 
 # Fresh Dark Theme
 
-A dark theme optimized for big screens to minimize reflections and eye strain.
+A dark theme optimized for big screens to minimize reflections and eye strain. Three different versions with different contrast.
 
 ## Screenshots
 
 ### Fresh Dark
 ![screenshot](https://raw.githubusercontent.com/Kurkulis/fresh-dark/master/Dark.png)
+
+### Fresh Dark Contrast
+![screenshot](https://raw.githubusercontent.com/Kurkulis/fresh-dark/master/Contrast.png)
 
 ### Fresh Dark Darker
 ![screenshot](https://raw.githubusercontent.com/Kurkulis/fresh-dark/master/Darker.png)

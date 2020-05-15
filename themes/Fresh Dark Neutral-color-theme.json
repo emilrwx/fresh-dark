@@ -25,6 +25,8 @@
 		"input.background": "#222222",
 		"list.activeSelectionBackground": "#222222",
 		"list.activeSelectionForeground": "#f8f8f8",
+		"list.errorForeground": "#AC4142",
+		"list.focusBackground": "#333",
 		"list.inactiveSelectionBackground": "#222222",
 		"panel.border": "#151515",
 		"panelTitle.activeBorder": "#d4d4d4",
@@ -358,7 +360,8 @@
 				"source.scss support.type.property-name",
 				"source.less support.type.property-name",
 				"source.stylus support.type.property-name",
-				"source.postcss support.type.property-name"
+				"source.postcss support.type.property-name",
+				"entity.name.tag.css"
 			],
 			"settings": {
 				"foreground": "#B2CCD6"
@@ -518,7 +521,9 @@
 		{
 			"name": "ES7 Bind Operator",
 			"scope": [
-				"source.js constant.other.object.key.js string.unquoted.label.js"
+				"source.js constant.other.object.key.js string.unquoted.label.js",
+				"meta.import.js",
+				"variable.other.readwrite.alias.js"
 			],
 			"settings": {
 				"foreground": "#AA759F"

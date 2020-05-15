@@ -33,6 +33,11 @@
                 "label": "Fresh Dark Darker",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Fresh Dark Darker-color-theme.json"
+            },
+            {
+                "label": "Fresh Dark Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fresh Dark Contrast-color-theme.json"
             }
         ]
     }
