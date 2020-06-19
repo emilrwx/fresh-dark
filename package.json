@@ -7,7 +7,7 @@
     "author": "Emil Nuutinen",
     "license": "MIT",
     "engines": {
-        "vscode": "^1.24.0"
+        "vscode": "^1.25.0"
     },
     "icon": "Icon.png",
     "keywords": [
@@ -24,8 +24,7 @@
         "url": "https://github.com/Kurkulis/fresh-dark"
     },
     "contributes": {
-        "themes": [
-            {
+        "themes": [{
                 "label": "Fresh Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Fresh Dark Neutral-color-theme.json"
@@ -39,6 +38,11 @@
                 "label": "Fresh Dark Contrast",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Fresh Dark Contrast-color-theme.json"
+            },
+            {
+                "label": "Fresh Dark Darker Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Fresh Dark Darker Contrast-color-theme.json"
             }
         ]
     }
