@@ -1,6 +1,13 @@
 # Change Log
 All notable changes to the "fresh-dark" extension will be documented in this file.
 
+## [5.0.0] - 2020-10-25
+### Changed
+- Tweaked colors (gruvbox-like colors).
+
+### Removed
+- Non-contrast versions.
+
 ## [4.0.0] - 2020-05-16
 ### Added
 - Contrast version.
