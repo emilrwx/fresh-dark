@@ -3,6 +3,10 @@ All notable changes to the "fresh-dark" extension will be documented in this fil
 
 ## [5.0.0] - 2020-10-25
 ### Changed
+- Fixed terminal colors.
+
+## [5.0.0] - 2020-10-25
+### Changed
 - Tweaked colors (gruvbox-like colors).
 
 ### Removed
