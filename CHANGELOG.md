@@ -1,7 +1,11 @@
 # Change Log
 All notable changes to the "fresh-dark" extension will be documented in this file.
 
-## [5.0.0] - 2020-10-25
+# [5.0.2] - 2020-10-25
+### Changed
+- Change terminal cursor color.
+
+## [5.0.1] - 2020-10-25
 ### Changed
 - Fixed terminal colors.
 
