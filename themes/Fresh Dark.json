@@ -10,6 +10,7 @@
 		"dropdown.background": "#1d1f21",
 		"editor.background": "#1d1f21",
 		"editor.foreground": "#A89984",
+		"editorCursor.foreground": "#AC4142",
 		"editorGroup.emptyBackground": "#1d1f21",
 		"editorGroup.border": "#3C3836",
 		"editorGroupHeader.tabsBackground": "#1d1f21",
@@ -369,8 +370,7 @@
 				"source.scss support.type.property-name",
 				"source.less support.type.property-name",
 				"source.stylus support.type.property-name",
-				"source.postcss support.type.property-name",
-				
+				"source.postcss support.type.property-name"
 			],
 			"settings": {
 				"foreground": "#41ac6a"
