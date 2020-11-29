@@ -1,6 +1,11 @@
 # Change Log
 All notable changes to the "fresh-dark" extension will be documented in this file.
 
+# [5.0.3] - 2020-10-27
+### Changed
+- Change magenta to more blueish.
+- Add color highlighting for Ruby. (Needs more)
+
 # [5.0.2] - 2020-10-27
 ### Changed
 - Change editor cursor color.
