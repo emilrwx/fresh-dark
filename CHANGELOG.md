@@ -1,17 +1,22 @@
 # Change Log
 All notable changes to the "fresh-dark" extension will be documented in this file.
 
-# [5.0.3] - 2020-10-27
+# [6.0.0] - 2020-11-29
+### Changed
+- Completely change the theme colors. Inclunding background color for normal theme and variable colors for all languages. 
+- Add colors that were missing.
+
+# [5.0.3] - 2020-11-29
 ### Changed
 - Change magenta to more blueish.
 - Add color highlighting for Ruby. (Needs more)
 
-# [5.0.2] - 2020-10-27
+# [5.0.2] - 2020-11-27
 ### Changed
 - Change editor cursor color.
 - Change highlight color.
 
-# [5.0.2] - 2020-10-25
+# [5.0.2] - 2020-11-25
 ### Changed
 - Change terminal cursor color.
 

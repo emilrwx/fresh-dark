@@ -2,7 +2,7 @@
     "name": "fresh-dark",
     "displayName": "Fresh Dark Theme",
     "description": "Fresh and minimal theme for Visual Studio Code",
-    "version": "5.0.3",
+    "version": "6.0.0",
     "publisher": "EmilNuutinen",
     "author": "Emil Nuutinen",
     "license": "MIT",
@@ -24,8 +24,7 @@
         "url": "https://github.com/emilrwx/fresh-dark"
     },
     "contributes": {
-        "themes": [
-            {
+        "themes": [{
                 "label": "Fresh Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Fresh Dark.json"
