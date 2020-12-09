@@ -1,6 +1,12 @@
 # Change Log
 All notable changes to the "fresh-dark" extension will be documented in this file.
 
+# [6.0.1] - 2020-11-29
+### Changed
+- Change background colors.
+- Change accent color from cyan to red.
+- Add colors that were missing.
+
 # [6.0.0] - 2020-11-29
 ### Changed
 - Completely change the theme colors. Inclunding background color for normal theme and variable colors for all languages. 
