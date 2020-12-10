@@ -79,13 +79,13 @@
 		"terminal.ansiBrightBlue": "#4187ac",
 		"terminal.ansiBrightCyan": "#41ac6a",
 		"terminal.ansiBrightGreen": "#93ac41",
-		"terminal.ansiBrightMagenta": "#8958a3",
+		"terminal.ansiBrightMagenta": "#AC4195",
 		"terminal.ansiBrightRed": "#AC4142",
 		"terminal.ansiBrightWhite": "#A89984",
 		"terminal.ansiBrightYellow": "#ac7e41",
 		"terminal.ansiCyan": "#41ac6a",
 		"terminal.ansiGreen": "#93ac41",
-		"terminal.ansiMagenta": "#8958a3",
+		"terminal.ansiMagenta": "#AC4195",
 		"terminal.ansiRed": "#AC4142",
 		"terminal.ansiWhite": "#A89984",
 		"terminal.ansiYellow": "#ac7e41",
@@ -151,7 +151,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
@@ -286,7 +286,7 @@
 				"punctuation.section.embedded.begin.erb"
 			],
 			"settings": {
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
@@ -322,7 +322,7 @@
 				"string.other.link"
 			],
 			"settings": {
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
@@ -403,7 +403,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
@@ -412,7 +412,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
@@ -495,7 +495,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
@@ -554,7 +554,7 @@
 				"variable.other.readwrite.alias.js"
 			],
 			"settings": {
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
@@ -683,7 +683,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
@@ -694,7 +694,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
@@ -709,7 +709,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
@@ -719,7 +719,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#8958a3"
+				"foreground": "#AC4195"
 			}
 		},
 		{
