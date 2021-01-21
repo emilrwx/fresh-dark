@@ -37,6 +37,7 @@
 		"list.focusBackground": "#3C3836",
 		"menu.foreground": "#A89984",
 		"notifications.background": "#1a1a1a",
+		"notebook.outputContainerBackgroundColor": "#14161b",
 		"tree.indentGuidesStroke": "#3C3836",
 		"panel.border": "#3C3836",
 		"panelSectionHeader.foreground": "#A89984",
